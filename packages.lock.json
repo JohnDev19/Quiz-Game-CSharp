@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net6.0": {
+      "System.Text.Json": {
+        "type": "Direct",
+        "requested": "[6.0.0, )",
+        "resolved": "6.0.0",
+        "contentHash": "zaJsHfESQvJ11vbXnNlkrR46IaMULk/gHxYsJphzSF+07kTjPHv+Oc14w6QEOfo3Q4hqLJgStUaYB9DBl0TmWg=="
+      }
+    }
+  }
+}
